@@ -1,5 +1,5 @@
-# DisableSafariPopupBlocker
+# Safari Popup Blocker 
 
-- **THIS IS MADE FOR MAC USERS**
+- **Mac users**
 
 - Download the file and run ```sh popupblocker.sh```
